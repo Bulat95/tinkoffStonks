@@ -1,0 +1,6 @@
+ssoToken: t.lbvNyOeydrPq-lM2rHMpCSLmEYBsFaxGncvviNeakgMa7D1m15PVYgNlrvnVfUBdFrDXXVp5F5sc7iLqXJE8TQ
+server:
+  port:8004
+
+api:
+  isSandBoxMode: true
